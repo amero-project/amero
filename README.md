@@ -1,0 +1,4 @@
+amero
+=====
+
+Amero crypto Currency
